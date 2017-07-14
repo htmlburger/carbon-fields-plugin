@@ -11,7 +11,7 @@
         "php": ">=5.3",
         "composer/installers": "^1.0",
         "mnsami/composer-custom-directory-installer": "^1.1",
-        "htmlburger/carbon-fields": "^2.0"
+        "htmlburger/carbon-fields": "dev-rewrite/plugin-usage"
     },
     "extra": {
         "installer-paths": {
