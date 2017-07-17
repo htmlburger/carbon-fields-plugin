@@ -2,4 +2,4 @@
 
 ### About
 
-This is an experimental WordPress plugin which loads the Carbon Fields composer package.
+This package loads Carbon Fields as a WordPress plugin.
