@@ -2,7 +2,7 @@
 Contributors: htmlburger, m1r0, atanasangelovdev, kamenarov, stoyanov.gs, pkostadinov, panchev, tyxla, xsisqox, avakul, dilirity, sstoqnov, kaloyanivanov, brutalenemy666, magadanski_uchen, germozy
 Tags: custom, field, custom field, advanced, repeater, post, type, text, textarea, file, image, rich text, wysiwyg, select, dropdown, checkbox, radio, association, relationship, map, taxonomy, term, user, comment, option, options, widget, simple fields, magic fields, more fields, post meta, term meta, user meta, comment meta, theme options, custom widget, nested fields
 Requires at least: 4.0
-Tested up to: 5.3
+Tested up to: 5.5.3
 Stable tag: 3.2.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
