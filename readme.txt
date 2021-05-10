@@ -1,7 +1,7 @@
 === Carbon Fields ===
 Contributors: htmlburger, m1r0, atanasangelovdev, kamenarov, stoyanov.gs, pkostadinov, panchev, tyxla, xsisqox, avakul, dilirity, sstoqnov, kaloyanivanov, brutalenemy666, magadanski_uchen, germozy
 Tags: custom, field, custom field, advanced, repeater, post, type, text, textarea, file, image, rich text, wysiwyg, select, dropdown, checkbox, radio, association, relationship, map, taxonomy, term, user, comment, option, options, widget, simple fields, magic fields, more fields, post meta, term meta, user meta, comment meta, theme options, custom widget, nested fields
-Requires at least: 4.0
+Requires at least: 5.0
 Tested up to: 5.7.1
 Stable tag: 3.3.2
 License: GPLv2 or later
