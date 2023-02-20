@@ -24,6 +24,6 @@
     "require": {
         "php": ">=5.3",
         "composer/installers": "^1.0",
-        "htmlburger/carbon-fields": "3.3.4"
+        "htmlburger/carbon-fields": "3.5.0"
     }
 }
