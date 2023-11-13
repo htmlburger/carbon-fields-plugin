@@ -77,6 +77,10 @@ A. Sure, go ahead! It is completely open source.
 
 == Changelog ==
 
+= 3.6.2 =
+
+Bugfixes
+
 = 3.6.1 =
 
 Version 3.6.1 includes WordPress 6.4 Compatibility
