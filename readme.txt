@@ -77,6 +77,10 @@ A. Sure, go ahead! It is completely open source.
 
 == Changelog ==
 
+= 3.6.3 =
+
+See https://github.com/htmlburger/carbon-fields/releases/tag/v3.6.3
+
 = 3.6.2 =
 
 Bugfixes
