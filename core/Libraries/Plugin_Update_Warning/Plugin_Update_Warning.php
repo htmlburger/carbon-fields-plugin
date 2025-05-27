@@ -9,7 +9,7 @@ class Plugin_Update_Warning {
 
 	public static function instance() {
 		static $instance;
-		if ( ! is_a( $instance, get_class() ) ) {
+		if ( is_null( $instance ) ) {
 			$instance = new self();
 		}
 		return $instance;
