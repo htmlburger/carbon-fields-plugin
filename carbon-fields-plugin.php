@@ -21,6 +21,8 @@ add_action( 'after_setup_theme', 'carbon_fields_boot_plugin' );
 function carbon_fields_boot_plugin() {
 	if ( file_exists( __DIR__ . '/vendor/autoload.php' ) ) {
 		require( __DIR__ . '/vendor/autoload.php' );
+	} else if (file_exists(ABSPATH . '/vendor/autoload.php')) {
+		require_once(ABSPATH . '/vendor/autoload.php');
 	}
 	\Carbon_Fields\Carbon_Fields::boot();
 
