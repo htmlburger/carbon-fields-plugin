@@ -2,13 +2,13 @@
 /**
  * Plugin Name: Carbon Fields
  * Description: WordPress developer-friendly custom fields for post types, taxonomy terms, users, comments, widgets, options, navigation menus and more.
- * Version: 3.6.10
+ * Version: 3.6.11
  * Author: htmlburger
  * Author URI: https://htmlburger.com/
  * Plugin URI: http://carbonfields.net/
  * License: GPL2
  * Requires at least: 5.0
- * Tested up to: 6.8
+ * Tested up to: 7.1
  * Text Domain: carbon-fields
  * Domain Path: /languages
  */
